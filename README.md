@@ -55,13 +55,4 @@ certified data security is required. In these cases, the use of a cryptographica
 secure algorithm, certified by the appropriate Agencies of your country, is recommended.
 
 ## License
-This software is released under the terms of the CC license BY-NC-SA 4.0 or later.
-You are fre to share it (copy and redistribute the material in any medium or format)
-and adapt it (remix, transform, and build upon the material) to your own needs
-under the following terms:
-* Attribution: you must give appropriate credit, provide a link to the license,
-and indicate if changes were made. You may do so in any reasonable manner, but
-not in any way that suggests the licensor endorses you or your use.
-* NonCommercial: You may not use the material for commercial purposes.
-* ShareAlike: If you remix, transform, or build upon the material, you must distribute
-your contributions under the same license as the original.
+This software is released under the terms of the GNU General Public License v3.0 or later
