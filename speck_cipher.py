@@ -1,5 +1,5 @@
 #
-# IMPLEMENTATION OF SPECK64/128 CIPHER IN DART PROGRAMMING LANGUAGE
+# IMPLEMENTATION OF SPECK64/128 CIPHER IN PYTHON PROGRAMMING LANGUAGE
 #
 # Key features of the algorithm:
 # block size: 64-bits (in 2 32-bits words)
@@ -9,6 +9,8 @@
 #
 # Written by Leonardo Miliani (2023)
 # Release under the terms of the CC license BY-NC-SA 4.0 or later
+# Code revisions:
+# 2024/05/23
 
 # import module
 from sys import argv
